@@ -55,7 +55,9 @@ We also backtested the AdaBoost model and found that it was able to generate pro
 ## Evaluation Report
 Overall, we found that machine learning and deep learning models can be effective at predicting stock prices and generating profits. However, it is important to carefully evaluate the performance of each model and to consider the limitations of these models, such as their sensitivity to market conditions.
 
-Based on our analysis, we recommend using the AdaBoost model for making stock market predictions and generating profits. However, we also recommend carefully monitoring the performance of the model and making adjustments as needed based on changing market conditions.
+Based on our analysis, we recommend using the AdaBoost model for making stock market predictions and generating profits. However, we also recommend carefully monitoring the performance of the model and making adjustments as needed based on changing market conditions. Below are some visuals of the plots supporting the analysis.
 
-
+## Visuals
+./ada_model_plot.png
+./cumulative_returns.png
 
