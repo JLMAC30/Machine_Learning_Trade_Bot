@@ -58,6 +58,6 @@ Overall, we found that machine learning and deep learning models can be effectiv
 Based on our analysis, we recommend using the AdaBoost model for making stock market predictions and generating profits. However, we also recommend carefully monitoring the performance of the model and making adjustments as needed based on changing market conditions. Below are some visuals of the plots supporting the analysis.
 
 ## Visuals
-./ada_model_plot.png
-./cumulative_returns.png
+![ADA Model Plot]("C:/Users/17204/Desktop/Starter_Code/ada_model_plot.png")
+![Cumulative Returns Plot]("C:/Users/17204/Desktop/Starter_Code/cumulative_returns.png")
 
